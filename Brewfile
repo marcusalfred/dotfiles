@@ -25,7 +25,7 @@ brew "zsh-completions"
 
 cask "adobe-photoshop-lightroom"
 cask "atom"
-cask "cyberduck"
+cask "transmit"
 cask "dbeaver-community"
 cask "docker"
 cask "dropbox"
