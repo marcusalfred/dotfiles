@@ -44,6 +44,7 @@ cask "spotify"
 cask "vlc"
 cask "caskroom/versions/adobe-photoshop-lightroom600"
 cask "caskroom/versions/google-chrome-canary"
+cask "caskroom/versions/mattr-slate
 
 mas "Airmail 3", id: 918858936
 mas "ForkLift", id: 412448059
